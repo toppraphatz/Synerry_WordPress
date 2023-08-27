@@ -1,0 +1,165 @@
+
+.depicter-revert.depicter-1 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-1-element-30{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#F78678;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-revert .depicter-1-element-30:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-30:not(.depicter-hover-off):hover {
+	background-color:#F78678;
+}
+.depicter-1-element-30 .depicter-arrow-icon{
+	fill:#FFFFFF;
+	transition:all ease 0.3s;
+}
+.depicter-1-element-30:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-1-element-31{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#F78678;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-revert .depicter-1-element-31:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-31:not(.depicter-hover-off):hover {
+	background-color:#F78678;
+}
+.depicter-1-element-31 .depicter-arrow-icon{
+	fill:#FFFFFF;
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-11{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Noto Sans Thai";
+	font-weight:600;
+	background-color:#EC2C23;
+	border-radius:20px;
+}
+.depicter-revert .depicter-1-element-11:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-11:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-element-5{
+	font-size:20px;
+	color:#FFFFFF;
+	font-family:"Noto Sans Thai";
+	font-weight:300;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:60px;
+	color:#FFFFFF;
+	font-family:"Noto Sans Thai";
+	font-weight:500;
+	line-height:100%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-12 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-1-element-30{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#F78678;
+}
+.depicter-1-element-30 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:60px;
+	color:#FFFFFF;
+	font-family:"Noto Sans Thai";
+	font-weight:500;
+	line-height:100%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-12 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-1-element-30{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#F78678;
+}
+.depicter-1-element-30 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-31{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#F78678;
+}
+.depicter-1-element-31 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-11{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Noto Sans Thai";
+	font-weight:600;
+	background-color:#EC2C23;
+	border-radius:99px;
+}
+.depicter-revert .depicter-1-element-5{
+	font-size:12px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Raleway";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:40px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Noto Sans Thai";
+	font-weight:500;
+	line-height:100%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
